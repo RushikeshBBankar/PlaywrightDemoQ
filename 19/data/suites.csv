@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 22 20:43:59 GMT 2023","Fri Dec 22 20:44:05 GMT 2023","6162","","","Home page","","","validation of screen shot",""
+"passed","Fri Dec 22 20:43:54 GMT 2023","Fri Dec 22 20:43:59 GMT 2023","4962","","","Home page","","","validation",""
+"passed","Fri Dec 22 20:43:45 GMT 2023","Fri Dec 22 20:43:49 GMT 2023","3549","","","","","","Child window handling",""
+"passed","Fri Dec 22 20:43:49 GMT 2023","Fri Dec 22 20:43:53 GMT 2023","4024","","","","","","@web Error validation",""
+"passed","Fri Dec 22 20:43:53 GMT 2023","Fri Dec 22 20:43:54 GMT 2023","1542","","","","","","get started link",""
