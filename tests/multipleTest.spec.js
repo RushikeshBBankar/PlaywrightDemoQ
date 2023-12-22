@@ -16,7 +16,7 @@ test.describe("Home page", async () => {
 
         test('validation of screen shot', async ({ page }) => {
                 await page.goto('https://www.rahulshettyacademy.com/AutomationPractice/');
-                const show = await page.locator('#displayed-text')
+                const show = await page.locator('#isplayed-text')
 
 
                 await expect(show).toBeVisible();
