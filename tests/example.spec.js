@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-check demo
 const { test, expect } = require('@playwright/test');
 
 test('get started link', async ({ page }) => {
