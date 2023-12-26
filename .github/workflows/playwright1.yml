@@ -1,8 +1,8 @@
-name: Time
+name: Schedule Time
 
 on:
    schedule:
-    - cron: 52 22 * * *
+    - cron: 20 23 * * *
 
 jobs:
   build:

@@ -1,4 +1,4 @@
-name: ci
+name: Allure report
 
 on:
   push:
