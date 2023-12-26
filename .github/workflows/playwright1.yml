@@ -2,7 +2,7 @@ name: Time
 
 on:
    schedule:
-    - cron: 52 22 * * 1
+    - cron: 52 22 * * *
 
 jobs:
   build:
