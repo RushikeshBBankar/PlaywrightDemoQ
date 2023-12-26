@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 26 23:28:43 GMT 2023","Tue Dec 26 23:28:46 GMT 2023","3467","","","","","","@UI Locator",""
+"passed","Tue Dec 26 23:28:51 GMT 2023","Tue Dec 26 23:28:57 GMT 2023","5601","","","Home page","","","validation of screen shot",""
+"passed","Tue Dec 26 23:28:46 GMT 2023","Tue Dec 26 23:28:51 GMT 2023","4917","","","Home page","","","validation",""
+"passed","Tue Dec 26 23:28:42 GMT 2023","Tue Dec 26 23:28:43 GMT 2023","1324","","","","","","get started link",""
+"passed","Tue Dec 26 23:28:34 GMT 2023","Tue Dec 26 23:28:38 GMT 2023","3489","","","","","","Different types of locator",""
+"passed","Tue Dec 26 23:28:38 GMT 2023","Tue Dec 26 23:28:42 GMT 2023","3905","","","","","","@web Error validation",""
+"passed","Tue Dec 26 23:28:30 GMT 2023","Tue Dec 26 23:28:34 GMT 2023","3875","","","","","","Child window handling",""
