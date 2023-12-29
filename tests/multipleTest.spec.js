@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-test.describe("Home page", async () => {
+test.describe("Demo page", async () => {
 
 
         test('validation', async ({ page }) => {
