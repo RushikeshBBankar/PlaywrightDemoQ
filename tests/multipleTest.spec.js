@@ -1,8 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
 test.describe("Demo page", async () => {
-
-
         test('validation', async ({ page }) => {
                 await page.goto('https://www.rahulshettyacademy.com/AutomationPractice/');
                 const show = await page.locator('#displayed-text')
