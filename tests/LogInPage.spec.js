@@ -17,4 +17,8 @@ test.describe("Home Page",()=>{
         test('validate the free link is visible or not',async()=>{
                 await HomePage.freeLink()
         })
+
+        test('should admin radio button is present',async()=>{
+                await HomePage.radioButton()
+        })
 })
